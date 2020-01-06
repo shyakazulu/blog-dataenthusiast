@@ -1,0 +1,11 @@
+# basic options
+title: Data-blog
+author: Shyaka Erick
+email: erick.shyaka@gmail.com
+description: Let's crunch data.
+twitter_username: 
+github_username: shyakazulu
+
+# Build settings
+markdown: kramdown
+theme: minima
