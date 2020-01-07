@@ -8,4 +8,4 @@ github_username: shyakazulu
 
 # Build settings
 markdown: kramdown
-theme: Slate 
+theme: minima 
