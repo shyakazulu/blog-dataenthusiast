@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![image](/assets/images/co.png =100x20)
+![image](/assets/images/co.png){:height="36px" width="36px"}
 
 
 
