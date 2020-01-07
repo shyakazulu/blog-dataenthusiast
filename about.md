@@ -8,6 +8,3 @@ Hope you love it!
 
 Reasons:
 - To have fun with data.
-
-
-## Other thoughts
