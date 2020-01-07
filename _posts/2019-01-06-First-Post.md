@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best advice ever!
+title: The best advice ever
 ---
 
 When it comes to eye contact I can gladly assert that I am not the only one who gets mired in dread 
