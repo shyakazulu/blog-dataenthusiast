@@ -7,6 +7,7 @@ title: About
 
 
 
+Likes :coffee and :pizza
 This is a blog about my passion for data.
 Hope you love it!
 
