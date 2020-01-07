@@ -54,7 +54,7 @@ tit.head()
 
 <div>
     
-%%html    
+    
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
