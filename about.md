@@ -9,12 +9,9 @@ title: About
 
 
 
-Likes :coffee::relaxed:
 
 
 
-This is a blog about my passion for data.
+
+This is a blog committed to sharing my passion for data.
 Hope you love it!
-
-Reasons:
-- To have fun with data.
