@@ -3,7 +3,7 @@ layout: post
 title: TITANIC- Logistic Regression
 ---
 
-###### Goal - Predict who surivies and who doesn't
+### Goal - Predict who surivies and who doesn't
 
 ![image](/assets/images/titanic_image.jpg)
 
