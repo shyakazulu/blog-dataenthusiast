@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![minipic](/assets/images/co.png)
+![pic](/assets/images/co.png)
 
 
 
