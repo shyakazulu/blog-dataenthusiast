@@ -5,7 +5,7 @@ title: TITANIC- Logistic Regression
 
 ###### Goal - Predict who surivies and who doesn't
 
-<img src="titanic_image.jpg">
+![jpg](titanic_image.jpg)
 
 - Source(https://bit.ly/35w815L)
 
@@ -195,7 +195,7 @@ sb.countplot(x='Survived', data=tit, palette ='hls')
 
 
 
-![png](output_10_1.png)
+![png](bar.png)
 
 
 ## Checking for missing values
@@ -508,7 +508,7 @@ sb.boxplot(x='Parch', y='Age', data=titanic_data, palette='hls')
 
 
 
-![png](output_19_1.png)
+![png](boxplot.png)
 
 
 
