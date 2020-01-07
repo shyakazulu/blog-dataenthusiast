@@ -1,11 +1,15 @@
-.container {
-    width: 99% !important;
-}   
-
-div.cell.selected {
-    border-left-width: 1px !important;	
-}
-
-div.output_scroll {
-    resize: vertical !important;
-}
+<style>
+    .dataframe thead tr:only-child th {
+        text-align: right;
+    }
+    .dataframe thead th {
+        text-align: left;
+    }
+    
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+</style
