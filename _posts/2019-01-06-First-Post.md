@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TITANIC : Logistic Regression
+title: TITANIC- Logistic Regression
 ---
 
 ###### Goal - Predict who surivies and who doesn't
