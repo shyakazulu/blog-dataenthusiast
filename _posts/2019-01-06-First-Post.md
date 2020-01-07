@@ -1,11 +1,9 @@
 ---
 layout: post
-title: The best advice ever
+title: TITANIC : Logistic Regression
 ---
 
-
-# TITANIC : Logistic Regression
-## Goal - Predict who surivies and who doesn't
+###### Goal - Predict who surivies and who doesn't
 
 <img src="titanic_image.jpg">
 
