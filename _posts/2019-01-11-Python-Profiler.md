@@ -39,20 +39,17 @@ profilerep
 ```
 
 ![image](/assets/images/overview.jpg)
+
 ![image](/assets/images/features.jpg)
+
 ![image](/assets/images/correlations.jpg)
+
 ![image](/assets/images/missing.jpg)
+
 ![image](/assets/images/sample.jpg)
 
 
 Report generated with <a href="https://github.com/pandas-profiling/pandas-profiling">pandas-profiling</a>.
-
-
-
-
-
-    
-
 
 
 #### To generate a HTML report file...
