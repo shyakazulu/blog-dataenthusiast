@@ -59,3 +59,4 @@ profilerep.to_file(output_file="titanic_profile.html")
 ```python
 
 ```
+[titanic_profile.html](/assets/images)
