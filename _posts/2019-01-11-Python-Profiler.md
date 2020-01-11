@@ -59,7 +59,7 @@ Report generated with <a href="https://github.com/pandas-profiling/pandas-profil
 profilerep.to_file(output_file="titanic_profile.html")
 ```
 
-#### Reerence  https://pypi.org/project/pandas-profiling/
+#### Reerence  [https://pypi.org/project/pandas-profiling/]
 
 
 ```python
