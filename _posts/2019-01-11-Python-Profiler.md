@@ -65,3 +65,6 @@ profilerep.to_file(output_file="titanic_profile.html")
 ```python
 
 ```
+
+
+file:///C:/Users/shyakae/Desktop/Linkedinlearning/python%20data%20analysis/Mine/titanic_profile.html
