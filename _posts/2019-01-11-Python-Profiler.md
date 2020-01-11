@@ -5,9 +5,6 @@ layout: post
 title: Exploratory Data Analysis using Pandas_Profiler
 
 ---
-
-##  Exploratory Data Analysis (EDA) using Pandas_Profiling
-
 - EDA plays a crucial role in understanding data.
 - Provides more insight into the data. For instance, correlation, mean and other measures of central tendency.
 - Pandas profiling reduces the amount of code that we have to write in order to get a feel for the data.
