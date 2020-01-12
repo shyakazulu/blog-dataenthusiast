@@ -55,7 +55,7 @@ profilerep
 profilerep.to_file(output_file="titanic_profile.html")
 ```
 
-####### Reerence Link:     [https://pypi.org/project/pandas-profiling/]
+###### Reference Link:     [https://pypi.org/project/pandas-profiling/]
 
 
 ```python
