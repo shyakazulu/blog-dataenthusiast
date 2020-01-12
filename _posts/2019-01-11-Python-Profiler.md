@@ -38,13 +38,7 @@ profilerep
 
 ![image](/assets/images/overview.jpg)
 
-![image](/assets/images/features.jpg)
 
-![image](/assets/images/correlations.jpg)
-
-![image](/assets/images/missing.jpg)
-
-![image](/assets/images/sample.jpg)
 
 ###### use the code below to generate a HTML report file...
 
