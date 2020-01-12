@@ -38,6 +38,10 @@ profilerep
 
 ![image](/assets/images/overview.JPG)
 
+![image](/assets/images/features.JPG)
+
+
+
 
 
 ###### use the code below to generate a HTML report file...
