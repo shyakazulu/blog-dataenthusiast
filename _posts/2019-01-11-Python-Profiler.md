@@ -40,7 +40,7 @@ profilerep
 
 ![image](/assets/images/features.JPG)
 
-![image](/assets/images/correlations.JPG)
+![image](/assets/images/correlation.JPG)
 
 ![image](/assets/images/missing.JPG)
 
@@ -55,7 +55,7 @@ profilerep
 profilerep.to_file(output_file="titanic_profile.html")
 ```
 
-#### Reerence Link:     [https://pypi.org/project/pandas-profiling/]
+####### Reerence Link:     [https://pypi.org/project/pandas-profiling/]
 
 
 ```python
