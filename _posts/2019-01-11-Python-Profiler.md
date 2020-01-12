@@ -36,7 +36,7 @@ profilerep = ProfileReport(dataset, title="Titanic Dataset", html={'style': {'fu
 profilerep
 ```
 
-![image](/assets/images/overview.jpg)
+![image](/assets/images/overview.JPG)
 
 
 
