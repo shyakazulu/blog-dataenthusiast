@@ -40,7 +40,11 @@ profilerep
 
 ![image](/assets/images/features.JPG)
 
+![image](/assets/images/correlations.JPG)
 
+![image](/assets/images/missing.JPG)
+
+![image](/assets/images/sample.JPG)
 
 
 
