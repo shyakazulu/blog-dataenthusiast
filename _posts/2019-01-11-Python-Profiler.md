@@ -2,7 +2,7 @@
 
 layout: post
 
-title: Exploratory Data Analysis using Python_Profiler
+title: Exploratory Data Analysis using Pandas-Profiling
 
 ---
 
@@ -55,7 +55,7 @@ profilerep
 profilerep.to_file(output_file="titanic_profile.html")
 ```
 
-###### Reference Link:     [https://pypi.org/project/pandas-profiling/]
+###### Reference Link: [Pandas_Profiling](https://pypi.org/project/pandas-profiling/)
 
 
 ```python
