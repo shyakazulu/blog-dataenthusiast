@@ -162,7 +162,7 @@ plt.show()
 ![image](/assets/images/two_bird.png)
 
 
-### Let's add a map to enrich thr birds migration narrative.
+### Let's add a map to enrich the birds migration narrative.
 
 
 ```python
