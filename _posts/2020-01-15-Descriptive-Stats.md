@@ -79,7 +79,7 @@ print(churn.head())
     [5 rows x 22 columns]
     
 
-###### Is there any difference between the people who churned and those who didn't?
+- Is there any difference between the people who churned and those who didn't?
 
 
 ```python
