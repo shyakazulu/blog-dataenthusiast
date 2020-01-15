@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Visualizing Bird Migration
 ---
 
