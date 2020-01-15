@@ -128,7 +128,7 @@ bird_names
 
 
 
-### Plot the migration pattern using logitude and latitude featues of 'Eric' 
+### Plot the migration pattern using longitude and latitude featues of 'Eric' 
 
 
 ```python
