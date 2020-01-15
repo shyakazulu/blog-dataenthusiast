@@ -132,7 +132,6 @@ bird_names
 
 
 ```python
-# storing the indices of the bird Eric 
 select_name = birds.bird_name == "Eric" 
 x,y = birds.longitude[select_name], birds.latitude[select_name] 
 plt.figure(figsize = (7,7)) 
@@ -147,8 +146,6 @@ plt.plot(x,y,"b.")
 
 
 ```python
-''' To look at all the birds trajectories, 
-    we plot each bird in the same plot '''
 plt.figure(figsize = (7,7)) 
 for bird_name in bird_names: 
     # storing the indices of the bird Eric 
@@ -169,9 +166,6 @@ plt.show()
 
 
 ```python
-# To move forward, we need to specify a  
-# specific projection that we're interested  
-# in using. 
 proj = ccrs.Mercator()  
   
 plt.figure(figsize=(10,10)) 
