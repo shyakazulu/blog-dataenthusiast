@@ -240,7 +240,7 @@ print(churn_with_dummies.head())
     [5 rows x 27 columns]
     
 
-- createing pivot tables.
+- creating pivot tables.
 
 
 ```python
